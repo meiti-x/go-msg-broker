@@ -1,0 +1,35 @@
+{
+  "action": "publish",
+  "message": {
+    "topic": "topic_name",
+    "content": "message content",
+    "priority": 3
+  }
+}
+
+----
+
+{
+  "action": "subscribe",
+  "topic": "topic_name"
+}
+
+
+-----
+
+{
+  "action": "unsubscribe",
+  "topic": "topic_name"
+}
+
+-----
+
+{
+   "action": "close_connection"
+}
+
+----
+
+{
+   "action": "shutdown"
+}
