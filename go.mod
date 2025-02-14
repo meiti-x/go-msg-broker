@@ -1,4 +1,4 @@
-module QueraMQ
+module github.com/meiti-x/go-msg-broker
 
 go 1.21.0
 

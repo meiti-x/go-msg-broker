@@ -1,8 +1,8 @@
 package test
 
 import (
-	"QueraMQ/server"
 	"encoding/json"
+	"github.com/meiti-x/go-msg-broker/server"
 	"net"
 	"sync"
 	"testing"

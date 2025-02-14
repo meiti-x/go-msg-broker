@@ -1,7 +1,7 @@
 package main
 
 import (
-	"QueraMQ/server"
+	"github.com/meiti-x/go-msg-broker/server"
 	"log"
 )
 

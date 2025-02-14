@@ -1,8 +1,8 @@
 package server
 
 import (
-	"QueraMQ/queue"
 	"encoding/json"
+	"github.com/meiti-x/go-msg-broker/queue"
 	"net"
 	"sync"
 )
